@@ -1,0 +1,80 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_3F37687A_2DE6_BA16_41A7_E1438BBD36F0.source = https://espacodascapas.com.br/
+LinkBehaviour_23D518C6_2DEF_FA7F_41C0_A961EE36E676.source = https://espacodascapas.com.br/
+LinkBehaviour_2064B202_2DEB_69F7_41C5_C1F9DAAC9B2B.source = https://wa.me/5583998333973
+LinkBehaviour_3F4BB873_2DE6_BA16_41A7_6FAD90878E67.source = https://wa.me/5583998333973
+LinkBehaviour_2378C24C_2DE9_AE73_4199_31D7CE1F3214.source = https://www.facebook.com/espacodascapas
+LinkBehaviour_3F492875_2DE6_BA12_41C2_D864AF077AF5.source = https://www.facebook.com/espacodascapas
+LinkBehaviour_206442E6_2DEF_6E3F_41B4_A2A0E5CA5B62.source = https://www.google.com/maps/place/Espa%C3%A7o+das+Capas+-+Acess%C3%B3rios+para+Celular/@-7.0260121,-37.2799632,17z/data=!3m1!4b1!4m5!3m4!1s0x7af607334107a63:0x7a752aaa7948a94!8m2!3d-7.0260121!4d-37.2777745?shorturl=1
+LinkBehaviour_3F48D879_2DE6_BA12_41C5_E35FB9C8256E.source = https://www.google.com/maps/place/Espa%C3%A7o+das+Capas+-+Acess%C3%B3rios+para+Celular/@-7.0260121,-37.2799632,17z/data=!3m1!4b1!4m5!3m4!1s0x7af607334107a63:0x7a752aaa7948a94!8m2!3d-7.0260121!4d-37.2777745?shorturl=1
+LinkBehaviour_3F4B0877_2DE6_BA1E_41C3_DB7FA2B90320.source = https://www.instagram.com/lojaespacodascapas/
+LinkBehaviour_2028EDD6_2DEE_9A1F_41B2_5718289A7E56.source = https://www.instagram.com/lojaespacodascapas/
+
+## Hotspot
+
+### Text
+QuadHotspotPanoramaOverlayTextImage_3BAB48B5_2D5E_F9B7_41C6_010B50B7CFB9.text = ACESSÓRIOS
+
+### Tooltip
+HotspotPanoramaOverlayArea_13D0FF4C_1C8B_FEAD_41AA_D0210892120C.toolTip = Clique aqui
+HotspotPanoramaOverlayArea_133529C3_1CB9_A59B_419B_595C974A9769.toolTip = Clique aqui
+HotspotPanoramaOverlayArea_2C60D4AC_22F6_A574_41B2_37AB9A041818.toolTip = Clique aqui
+HotspotPanoramaOverlayArea_1227ABD9_1CBB_A5B7_41B1_E5A798765DC8.toolTip = Clique aqui
+HotspotPanoramaOverlayArea_2C4F8521_2124_B68E_41BA_3C23BC0A7665.toolTip = Clique aqui
+HotspotPanoramaOverlayArea_3E361EAC_2DA6_9855_419D_516F664C7FEB.toolTip = Video
+
+## Media
+
+### Audio
+audiores_3A848DC3_2E19_7A76_4184_18DB19FC8289.mp3Url = media/audio_3A12A525_2E19_AA3D_41C5_311ABA462417_pt.mp3
+
+### Image
+imlevel_3F0538B8_2DE7_FA13_41BE_B6DF9AE1A034.url = media/panorama_1CA15942_1680_3C8F_419B_5FD8EA009712_HS_gzyi3lde_pt.png
+
+### Title
+video_3ADD6DF8_2DBD_9BBD_41C1_DD977878FD23.label = Devia
+photo_3BAAC8B5_2DA6_B9B7_41C4_EE0C540A3E46.label = ESPAÇO DAS CAPAS - ARTE
+panorama_1D64D9B5_1680_DFF5_41AA_CD57F828A321.label = Rua_hor
+panorama_1D93F5E9_1680_579D_41AA_86FB42E6C11E.label = calçada
+panorama_1CA15942_1680_3C8F_419B_5FD8EA009712.label = inter01
+panorama_1C9DE74B_1680_D49D_4197_1B358042D8AA.label = inter02
+panorama_1C9D850A_1680_F49F_4164_CE607A62141F.label = inter03
+panorama_2B8FAE00_2127_928E_419E_CB102AACEF30.label = inter04_2
+
+### Video
+videolevel_394B079D_2E3F_960D_41C5_2554E4554CCD.posterURL = media/video_3ADD6DF8_2DBD_9BBD_41C1_DD977878FD23_poster_pt.jpg
+videolevel_3BCE3971_2E3E_9A15_418F_D1D5088195AD.posterURL = media/video_3ADD6DF8_2DBD_9BBD_41C1_DD977878FD23_poster_pt.jpg
+videolevel_394B079D_2E3F_960D_41C5_2554E4554CCD.url = media/video_3ADD6DF8_2DBD_9BBD_41C1_DD977878FD23_pt.m3u8
+videolevel_3BCE3971_2E3E_9A15_418F_D1D5088195AD.url = media/video_3ADD6DF8_2DBD_9BBD_41C1_DD977878FD23_pt.mp4
+
+## Popup
+
+### Body
+htmlText_3B8AB33B_2DAD_E8B3_41BE_C6885DD30E57.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;">Grande variedade em acessórios como fones de ouvido, adaptadores, carregadores, cabos e muito mais. </SPAN></SPAN></DIV></BODY></HTML></div>
+
+## Skin
+
+### Image
+Image_20916AEA_2D6D_8063_418E_D968BB2F49E3_mobile.url = skin/Image_20916AEA_2D6D_8063_418E_D968BB2F49E3_mobile_pt.gif
+Image_20916AEA_2D6D_8063_418E_D968BB2F49E3.url = skin/Image_20916AEA_2D6D_8063_418E_D968BB2F49E3_pt.gif
+Image_23262676_2D6B_8063_418B_59F9E086D5D4_mobile.url = skin/Image_23262676_2D6B_8063_418B_59F9E086D5D4_mobile_pt.png
+Image_23262676_2D6B_8063_418B_59F9E086D5D4.url = skin/Image_23262676_2D6B_8063_418B_59F9E086D5D4_pt.png
+Image_3C8754B1_2DFB_A84C_41C4_FCDAF06F41DE_mobile.url = skin/Image_3C8754B1_2DFB_A84C_41C4_FCDAF06F41DE_mobile_pt.png
+Image_3C8754B1_2DFB_A84C_41C4_FCDAF06F41DE.url = skin/Image_3C8754B1_2DFB_A84C_41C4_FCDAF06F41DE_pt.png
+Image_3CEC90F3_2DE5_E9CC_41C0_E9A6A6711ACB_mobile.url = skin/Image_3CEC90F3_2DE5_E9CC_41C0_E9A6A6711ACB_mobile_pt.png
+Image_3CEC90F3_2DE5_E9CC_41C0_E9A6A6711ACB.url = skin/Image_3CEC90F3_2DE5_E9CC_41C0_E9A6A6711ACB_pt.png
+Image_3D450C03_2DE6_B84C_41A6_7C7C9653842F_mobile.url = skin/Image_3D450C03_2DE6_B84C_41A6_7C7C9653842F_mobile_pt.png
+Image_3D450C03_2DE6_B84C_41A6_7C7C9653842F.url = skin/Image_3D450C03_2DE6_B84C_41A6_7C7C9653842F_pt.png
+Image_3D9935D7_2DE5_6BF4_41C6_C88FB4ADBAA6_mobile.url = skin/Image_3D9935D7_2DE5_6BF4_41C6_C88FB4ADBAA6_mobile_pt.png
+Image_3D9935D7_2DE5_6BF4_41C6_C88FB4ADBAA6.url = skin/Image_3D9935D7_2DE5_6BF4_41C6_C88FB4ADBAA6_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Espaço das Capas
