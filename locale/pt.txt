@@ -3,29 +3,21 @@
 ## Action
 
 ### URL
-LinkBehaviour_3F37687A_2DE6_BA16_41A7_E1438BBD36F0.source = https://espacodascapas.com.br/
 LinkBehaviour_23D518C6_2DEF_FA7F_41C0_A961EE36E676.source = https://espacodascapas.com.br/
-LinkBehaviour_2064B202_2DEB_69F7_41C5_C1F9DAAC9B2B.source = https://wa.me/5583998333973
+LinkBehaviour_3F37687A_2DE6_BA16_41A7_E1438BBD36F0.source = https://espacodascapas.com.br/
 LinkBehaviour_3F4BB873_2DE6_BA16_41A7_6FAD90878E67.source = https://wa.me/5583998333973
-LinkBehaviour_2378C24C_2DE9_AE73_4199_31D7CE1F3214.source = https://www.facebook.com/espacodascapas
+LinkBehaviour_2064B202_2DEB_69F7_41C5_C1F9DAAC9B2B.source = https://wa.me/5583998333973
 LinkBehaviour_3F492875_2DE6_BA12_41C2_D864AF077AF5.source = https://www.facebook.com/espacodascapas
-LinkBehaviour_206442E6_2DEF_6E3F_41B4_A2A0E5CA5B62.source = https://www.google.com/maps/place/Espa%C3%A7o+das+Capas+-+Acess%C3%B3rios+para+Celular/@-7.0260121,-37.2799632,17z/data=!3m1!4b1!4m5!3m4!1s0x7af607334107a63:0x7a752aaa7948a94!8m2!3d-7.0260121!4d-37.2777745?shorturl=1
+LinkBehaviour_2378C24C_2DE9_AE73_4199_31D7CE1F3214.source = https://www.facebook.com/espacodascapas
 LinkBehaviour_3F48D879_2DE6_BA12_41C5_E35FB9C8256E.source = https://www.google.com/maps/place/Espa%C3%A7o+das+Capas+-+Acess%C3%B3rios+para+Celular/@-7.0260121,-37.2799632,17z/data=!3m1!4b1!4m5!3m4!1s0x7af607334107a63:0x7a752aaa7948a94!8m2!3d-7.0260121!4d-37.2777745?shorturl=1
-LinkBehaviour_3F4B0877_2DE6_BA1E_41C3_DB7FA2B90320.source = https://www.instagram.com/lojaespacodascapas/
+LinkBehaviour_206442E6_2DEF_6E3F_41B4_A2A0E5CA5B62.source = https://www.google.com/maps/place/Espa%C3%A7o+das+Capas+-+Acess%C3%B3rios+para+Celular/@-7.0260121,-37.2799632,17z/data=!3m1!4b1!4m5!3m4!1s0x7af607334107a63:0x7a752aaa7948a94!8m2!3d-7.0260121!4d-37.2777745?shorturl=1
 LinkBehaviour_2028EDD6_2DEE_9A1F_41B2_5718289A7E56.source = https://www.instagram.com/lojaespacodascapas/
+LinkBehaviour_3F4B0877_2DE6_BA1E_41C3_DB7FA2B90320.source = https://www.instagram.com/lojaespacodascapas/
 
 ## Hotspot
 
 ### Text
 QuadHotspotPanoramaOverlayTextImage_3BAB48B5_2D5E_F9B7_41C6_010B50B7CFB9.text = ACESSÓRIOS
-
-### Tooltip
-HotspotPanoramaOverlayArea_13D0FF4C_1C8B_FEAD_41AA_D0210892120C.toolTip = Clique aqui
-HotspotPanoramaOverlayArea_133529C3_1CB9_A59B_419B_595C974A9769.toolTip = Clique aqui
-HotspotPanoramaOverlayArea_2C60D4AC_22F6_A574_41B2_37AB9A041818.toolTip = Clique aqui
-HotspotPanoramaOverlayArea_1227ABD9_1CBB_A5B7_41B1_E5A798765DC8.toolTip = Clique aqui
-HotspotPanoramaOverlayArea_2C4F8521_2124_B68E_41BA_3C23BC0A7665.toolTip = Clique aqui
-HotspotPanoramaOverlayArea_3E361EAC_2DA6_9855_419D_516F664C7FEB.toolTip = Video
 
 ## Media
 
@@ -46,10 +38,10 @@ panorama_1C9D850A_1680_F49F_4164_CE607A62141F.label = inter03
 panorama_2B8FAE00_2127_928E_419E_CB102AACEF30.label = inter04_2
 
 ### Video
-videolevel_39617899_2E1B_BA15_41AB_D38CB833E2C5.posterURL = media/video_3ADD6DF8_2DBD_9BBD_41C1_DD977878FD23_poster_pt.jpg
-videolevel_39614899_2E1B_BA15_41B0_6E674377CBEA.posterURL = media/video_3ADD6DF8_2DBD_9BBD_41C1_DD977878FD23_poster_pt.jpg
-videolevel_39617899_2E1B_BA15_41AB_D38CB833E2C5.url = media/video_3ADD6DF8_2DBD_9BBD_41C1_DD977878FD23_pt.m3u8
-videolevel_39614899_2E1B_BA15_41B0_6E674377CBEA.url = media/video_3ADD6DF8_2DBD_9BBD_41C1_DD977878FD23_pt.mp4
+videolevel_4D48E87B_5A84_211A_41CB_BFD39D8F5E74.posterURL = media/video_3ADD6DF8_2DBD_9BBD_41C1_DD977878FD23_poster_pt.jpg
+videolevel_4D4F287B_5A84_211A_41D4_BFF588059176.posterURL = media/video_3ADD6DF8_2DBD_9BBD_41C1_DD977878FD23_poster_pt.jpg
+videolevel_4D48E87B_5A84_211A_41CB_BFD39D8F5E74.url = media/video_3ADD6DF8_2DBD_9BBD_41C1_DD977878FD23_pt.m3u8
+videolevel_4D4F287B_5A84_211A_41D4_BFF588059176.url = media/video_3ADD6DF8_2DBD_9BBD_41C1_DD977878FD23_pt.mp4
 
 ## Popup
 
